@@ -34,7 +34,7 @@ O Azure Speech Studio é uma plataforma que oferece serviços avançados para o 
 
 ## Considerações
 
-O site do Azure não carregou mesmo esperando quase 30 minutos, por isso todo esse Readmi é baseado é teoria.
+O site do Azure não carregou mesmo esperando quase 30 minutos, por isso todo esse Readme é baseado é teoria.
 <img width="1277" height="649" alt="Captura de tela 2025-10-06 113905" src="https://github.com/user-attachments/assets/4c0497aa-801b-407f-8ba0-7816e223e8ea" />
 
 
